@@ -1,6 +1,4 @@
-// Author : youtube channel-dotnetmob
-// Date : 01-Sep-2015
-// Description : CG program for A man walking in rain
+
 
 #include<stdio.h>
 #include<graphics.h>
